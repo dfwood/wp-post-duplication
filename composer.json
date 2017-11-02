@@ -16,5 +16,10 @@
   },
   "require": {
     "dfwood/wp-post-meta": "@stable"
+  },
+  "autoload": {
+    "psr-4": {
+      "dfwood\\WordPress\\": ""
+    }
   }
 }
