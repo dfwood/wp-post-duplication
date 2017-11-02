@@ -15,6 +15,6 @@
     "source": "https://github.com/dfwood/wp-post-duplication"
   },
   "require": {
-    "dfwood/wp-post-meta": "@stable",
+    "dfwood/wp-post-meta": "@stable"
   }
 }
