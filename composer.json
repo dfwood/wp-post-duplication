@@ -1,7 +1,7 @@
 {
   "name": "dfwood/wp-post-duplication",
   "description": "A helper library to quickly duplicate a post or overwrite a post with another in WordPress.",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "type": "library",
   "homepage": "https://github.com/dfwood/wp-post-duplication",
   "authors": [
